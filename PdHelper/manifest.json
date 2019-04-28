@@ -1,0 +1,33 @@
+{
+    "author": "三水非冰",
+    "manifest_version": 2,
+    "name": "PdHelper",
+    "description": "PanDownload Helper",
+    "homepage_url": "https://www.sanshuifeibing.cn",
+    "icons": {
+        "128": "icons/Cloud_128px.png",
+        "64": "icons/Cloud_64px.png",
+        "48": "icons/Cloud_48px.png",
+        "16": "icons/Cloud_16px.png"
+     },
+    "browser_action": {  
+        "default_icon": {
+            "128": "icons/Cloud_128px.png",
+            "64": "icons/Cloud_64px.png",
+            "48": "icons/Cloud_48px.png",
+            "16": "icons/Cloud_16px.png"
+         },
+        "default_title": "PdHelper",
+        "default_popup": "popup.html"
+      },
+    "options_page": "options.html",
+    "version": "1.0.0",
+    "permissions": [
+
+        "clipboardWrite",
+        "clipboardRead",
+        "http://*/*"
+    ]
+    
+   
+}
