@@ -12,4 +12,4 @@
 
 # 演示
 
-![demo.gif](/demo.gif)
+![demo.gif](https://github.com/sanshuifeibing/PdHelper/blob/master/Demo.gif)
